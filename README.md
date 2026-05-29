@@ -1,1 +1,2 @@
-# Embedded-Systems-Concepts
+# Embedded-Systems
+Yet to Prepare notes on Memory Mapped IO, DMA, ARM, ESP...
